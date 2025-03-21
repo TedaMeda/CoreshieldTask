@@ -1,6 +1,6 @@
 <b>Assumptions</b>
 <ul>
-  <li>Json file will be already placed at src/main/resources location with file name file1.json and file2.json</li>
+  <li>Json file will be already placed at <b>src/main/resources</b> location with file name file1.json and file2.json</li>
   <li>Default rating/reviews will be 0, if not provided in json file</li>
   <li>
     <b>Criteria for validity</b>
